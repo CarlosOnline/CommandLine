@@ -7,7 +7,6 @@ Original version: https://github.com/gsscoder/commandline
 
 See Example.cs for usage.
 
-{code}
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -86,5 +85,3 @@ namespace CommandLine
         }
     }
 }
-
-{code}
